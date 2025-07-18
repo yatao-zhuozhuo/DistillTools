@@ -127,4 +127,4 @@ day4-exercise/
 └── qwen_lora_model/         # 训练完成的模型（训练后生成）
 ```
 
-项目链接见 
+项目链接见 https://github.com/yatao-zhuozhuo/DistillTools
